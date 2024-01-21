@@ -1,6 +1,6 @@
 ### Olá mundo 👋
 
-Estou iniciando minha cerreira como dev júnior. A alguns meses me descobri apaixonada por codificar e aprender constantemente.
+Estou iniciando minha carreira como dev júnior. A alguns meses me descobri apaixonada por codificar e aprender constantemente.
 
 ### 💻 Tech Stack
 
