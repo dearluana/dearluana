@@ -1,6 +1,6 @@
 ### Olá mundo 👋
 
-![Snake animation](https://github.com/dearluana/all/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/dearluana/github-finder/blob/output/github-contribution-grid-snake.svg)
 
 # luanasilva
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dearluana&layout=compact)
