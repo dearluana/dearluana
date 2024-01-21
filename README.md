@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá mundo 👋
 
 # luanasilva
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dearluana&hide=javascript,html)
