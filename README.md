@@ -15,9 +15,7 @@ Concentrada em aprimorar minhas habilidades em desenvolvimento web, ganhar mais 
 ### 📚 Sempre Aprendendo
 
 Acredito que o aprendizado é contínuo. Explorando novas tecnologias, contando com o trabalho em equipe, e participando de comunidades para ficar sempre atualizada.
-
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
-<iframe src="https://giphy.com/embed/1MSVKRopegDjYONwdF" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-1MSVKRopegDjYONwdF">via GIPHY</a></p>
+![Swipe Up](https://media.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dearluana&layout=compact)
 
