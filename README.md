@@ -1,6 +1,6 @@
 ### Olá mundo 👋
 
-Sou Luana, possuo ampla experiência na área de TI, e atualmente estou iniciando minha cerreira como dev júnior. A alguns meses me descobri apaixonada por codificar e aprender constantemente.
+Estou iniciando minha cerreira como dev júnior. A alguns meses me descobri apaixonada por codificar e aprender constantemente.
 
 ### 💻 Tech Stack
 
