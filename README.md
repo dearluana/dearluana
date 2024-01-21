@@ -3,6 +3,12 @@
 # luanasilva
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dearluana&hide=javascript,html)
 
+<a href="https://github.com/dearluana/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dearluana" />
+</a>
+<a href="https://github.com/dearluana/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dearluana&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## Contato:
 
