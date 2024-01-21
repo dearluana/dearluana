@@ -4,7 +4,7 @@ Estou iniciando minha cerreira como dev júnior. A alguns meses me descobri apai
 
 ### 💻 Tech Stack
 
-- JavaScript | Java | Spring
+- JavaScript | Java | Spring | Typescript
 - React.js | Node.js
 - Git
 
