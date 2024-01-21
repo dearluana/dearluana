@@ -1,5 +1,7 @@
 ### Olá mundo 👋
 
+![Snake animation](https://github.com/dearluana/dearluana/blob/output/github-contribution-grid-snake.svg)
+
 # luanasilva
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dearluana&layout=compact)
 
@@ -14,8 +16,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=dearluana&show_icons=true&pt-br" />
 </picture>
-
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/dearluana/bbfce31e0217a3689c8d961a356cb10d/)
 
 ## Ferramentas e Tecnologias
     
