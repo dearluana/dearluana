@@ -15,8 +15,9 @@ Concentrada em aprimorar minhas habilidades em desenvolvimento web, ganhar mais 
 ### 📚 Sempre Aprendendo
 
 Acredito que o aprendizado é contínuo. Explorando novas tecnologias, contando com o trabalho em equipe, e participando de comunidades para ficar sempre atualizada.
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dearluana&layout=compact)
+
 ![Swipe Up](https://media.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dearluana&layout=compact)
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=dearluana&show_icons=true&pt-br&theme=dark"
