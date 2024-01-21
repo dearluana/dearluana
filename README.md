@@ -17,6 +17,7 @@ Concentrada em aprimorar minhas habilidades em desenvolvimento web, ganhar mais 
 Acredito que o aprendizado é contínuo. Explorando novas tecnologias e participando de comunidades para ficar atualizado.
 
 ![Snake animation](https://github.com/dearluana/dearluana/blob/output/github-contribution-grid-snake.svg)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dearluana&layout=compact)
 
 <picture>
