@@ -16,7 +16,7 @@ Concentrada em aprimorar minhas habilidades em desenvolvimento web, ganhar mais 
 
 Acredito que o aprendizado é contínuo. Explorando novas tecnologias, contando com o trabalho em equipe, e participando de comunidades para ficar sempre atualizada.
 
-<div class="tenor-gif-embed" data-postid="26388105" data-share-method="host" data-aspect-ratio="1.84971" data-width="100%"><a href="https://tenor.com/view/coffe-cup-code-coding-pass-by-reference-gif-26388105">Coffe Cup GIF</a>from <a href="https://tenor.com/search/coffe-gifs">Coffe GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dearluana&layout=compact)
 
