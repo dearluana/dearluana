@@ -20,7 +20,7 @@ Framework de Estilo Responsivo: Bootstrap
 
 ● Desenvolvimento Full-stack: Node.js
 ● Bancos de Dados: Oracle, MongoDB
-● Hospedagem e Implantação: Plataformas: Vercel, Netlify
+● Hospedagem e Implantação: Plataformas: Vercel, Netlify  
 ● DevOps: Jenkins, Docker, Git, Sonar, Checkmarx 
 
 ### 🚀 Atualmente
