@@ -23,6 +23,8 @@ Framework de Estilo Responsivo: Bootstrap
 ● Hospedagem e Implantação: Plataformas: Vercel, Netlify  
 ● DevOps: Jenkins, Docker, Git, Sonar, Checkmarx 
 
+→ Entusiasta com Python Django OpenCV, também possuo alguns projetos em empresas passadas na área de computação gráfica. 
+
 ### 🚀 Atualmente
 
 Concentrada em aprimorar minhas habilidades em desenvolvimento web, ganhar mais conhecimento especialmente com Java. 
