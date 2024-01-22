@@ -10,7 +10,7 @@ Framework: Spring (incluindo Spring Boot e Spring MVC)
 Framework Web: JSF (JavaServer Faces)
 Gerenciamento de Dependências: Apache Maven
 Framework ORM: Hibernate
-Servidores de Aplicação: Tomcat, Weblogic
+Servidores de Aplicação: Tomcat, Weblogic, Xamp
 
 ●● Desenvolvimento Frontend ●●    
 Linguagem de Programação: JavaScript
