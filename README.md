@@ -25,7 +25,7 @@ Framework de Estilo Responsivo: Bootstrap
 ● Qualidade de Software: Sonar, Checkmarx
 ● Metodologia Ágil: Scrum
 
-→ Entusiasta com Python Django OpenCV, também possuo alguns projetos em empresas passadas na área de computação gráfica que encluem também o uso de Arduino e RaspberryPI. 
+→ Entusiasta com Python Django OpenCV, também possuo alguns projetos em empresas passadas na área de computação gráfica que incluem também o uso de Arduino e RaspberryPI. 
 
 ### 🚀 Atualmente
 
