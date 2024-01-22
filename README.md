@@ -1,6 +1,6 @@
 ### Olá mundo 👋
 
-Estou iniciando minha carreira como dev júnior. A alguns meses me descobri apaixonada por codificar e aprender constantemente.
+Possuo oito anos de carreira na área de T.I,  já passei pela parte de infraestrutura de rede/servidores, migrei para área de sustentação de softwares e aplicações, e agora estou iniciando minha carreira como dev júnior. A alguns meses me descobri apaixonada por codificar e aprender constantemente.
 
 ### 💻 Tech Stack
 
@@ -19,9 +19,11 @@ Biblioteca JavaScript: jQuery
 Framework de Estilo Responsivo: Bootstrap
 
 ● Desenvolvimento Full-stack: Node.js
-● Bancos de Dados: Oracle, MongoDB
+● Bancos de Dados: Oracle SQL Developer,  MongoDB
 ● Hospedagem e Implantação: Plataformas: Vercel, Netlify  
-● DevOps: Jenkins, Docker, Git, Sonar, Checkmarx 
+● DevOps: Jenkins, Docker, Git, Azure, Tortoise, Repository Nexus 
+● Qualidade de Software: Sonar, Checkmarx
+● Metodologia Ágil: Scrum
 
 → Entusiasta com Python Django OpenCV, também possuo alguns projetos em empresas passadas na área de computação gráfica que encluem também o uso de Arduino e RaspberryPI. 
 
