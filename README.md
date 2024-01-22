@@ -4,9 +4,28 @@ Estou iniciando minha carreira como dev júnior. A alguns meses me descobri apai
 
 ### 💻 Tech Stack
 
-- JavaScript | Java | Spring | Typescript
-- React.js | Node.js
-- Git
+Desenvolvimento Backend em Java
+Framework: Spring (incluindo Spring Boot e Spring MVC)
+Framework Web: JSF (JavaServer Faces)
+Gerenciamento de Dependências: Apache Maven
+Framework ORM: Hibernate
+Servidores de Aplicação: Tomcat, Weblogic
+
+Desenvolvimento Frontend em JavaScript:
+Linguagem de Programação: JavaScript
+Bibliotecas e Frameworks: React, TypeScript, Angular
+Biblioteca JavaScript: jQuery
+Framework de Estilo Responsivo: Bootstrap
+
+Desenvolvimento Full-stack:
+Node.js
+
+Bancos de Dados:
+Oracle
+MongoDB
+
+Hospedagem e Implantação:
+Plataformas: Vercel, Netlify
 
 ### 🚀 Atualmente
 
