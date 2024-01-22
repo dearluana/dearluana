@@ -4,7 +4,7 @@ Estou iniciando minha carreira como dev júnior. A alguns meses me descobri apai
 
 ### 💻 Tech Stack
 
-●● Desenvolvimento Backend ●● 
+●● Desenvolvimento Backend ●●   
 Linguagem de programação: Java
 Framework: Spring (incluindo Spring Boot e Spring MVC)
 Framework Web: JSF (JavaServer Faces)
@@ -12,7 +12,7 @@ Gerenciamento de Dependências: Apache Maven
 Framework ORM: Hibernate
 Servidores de Aplicação: Tomcat, Weblogic
 
-●● Desenvolvimento Frontend ●● 
+●● Desenvolvimento Frontend ●●    
 Linguagem de Programação: JavaScript
 Bibliotecas e Frameworks: React, TypeScript, Angular
 Biblioteca JavaScript: jQuery
