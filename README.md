@@ -5,7 +5,7 @@
 
 ●● Desenvolvimento Backend ●●   
 Linguagem de programação: Java
-Framework: Springboot, spring mvc 
+Framework: Springboot, spring mvc  
 Framework Web: JSF (JavaServer Faces)
 Gerenciamento de Dependências: Apache Maven
 Framework ORM: Hibernate
