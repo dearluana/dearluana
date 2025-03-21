@@ -1,12 +1,11 @@
 ### Olá mundo 👋
 
-Possuo oito anos de carreira na área de T.I,  já passei pela parte de infraestrutura de rede/servidores, migrei para área de sustentação de softwares e aplicações, e agora estou iniciando minha carreira como dev júnior. A alguns meses me descobri apaixonada por codificar e aprender constantemente.
 
 ### 💻 Tech Stack
 
 ●● Desenvolvimento Backend ●●   
 Linguagem de programação: Java
-Framework: Spring (incluindo Spring Boot e Spring MVC)
+Framework: Springboot, spring mvc 
 Framework Web: JSF (JavaServer Faces)
 Gerenciamento de Dependências: Apache Maven
 Framework ORM: Hibernate
@@ -19,7 +18,7 @@ Biblioteca JavaScript: jQuery
 Framework de Estilo Responsivo: Bootstrap
 
 ● Desenvolvimento Full-stack: Node.js
-● Bancos de Dados: Oracle SQL Developer,  MongoDB
+● Bancos de Dados: Oracle, Sybase, MYSQL, MongoDB
 ● Hospedagem e Implantação: Plataformas: Vercel, Netlify  
 ● DevOps: Jenkins, Docker, Git, Azure, Tortoise, Repository Nexus 
 ● Qualidade de Software: Sonar, Checkmarx
