@@ -1,38 +1,85 @@
-### Olá mundo 👋
+Olá mundo 
 
+Sou uma profissional apaixonada por tecnologia, com experiência em projetos legados e arquiteturas de microsserviços integrados.
 
-### 💻 Tech Stack
+##  Tech Stack
 
-●● Desenvolvimento Backend ●●   
-Linguagem de programação: Java
-Framework: Springboot, spring mvc  
-Framework Web: JSF (JavaServer Faces)
-Gerenciamento de Dependências: Apache Maven
-Framework ORM: Hibernate
-Servidores de Aplicação: Tomcat, Weblogic, Xamp
+### ️ Arquitetura de Microsserviços
 
-●● Desenvolvimento Frontend ●●    
-Linguagem de Programação: JavaScript
-Bibliotecas e Frameworks: React, TypeScript, Angular
-Biblioteca JavaScript: jQuery
-Framework de Estilo Responsivo: Bootstrap
+#### ⚙️ Desenvolvimento Backend
 
-● Desenvolvimento Full-stack: Node.js
-● Bancos de Dados: Oracle, Sybase, MYSQL, MongoDB
-● Hospedagem e Implantação: Plataformas: Vercel, Netlify  
-● DevOps: Jenkins, Docker, Git, Azure, Tortoise, Repository Nexus 
-● Qualidade de Software: Sonar, Checkmarx
-● Metodologia Ágil: Scrum
+* **Linguagens:** Java, Kotlin
+* **Frameworks:** Spring Boot, Spring Cloud, Micronaut, Quarkus
+* **APIs:** REST, GraphQL, API Gateway (Apigee, AWS API Gateway, Azure API Management)
+* **Mensageria:** Kafka, RabbitMQ, ActiveMQ
+* **Contêineres:** Docker, Kubernetes (GKE, EKS, AKS)
+* **Gerenciamento de Configuração:** Consul
+* **Orquestração:** Kubernetes, Docker Swarm
 
-→ Entusiasta com Python Django OpenCV, CMake, também possuo alguns projetos em empresas passadas na área de computação gráfica que incluem também o uso de Arduino e RaspberryPI. 
+#### ⚛️ Desenvolvimento Frontend
 
-### 🚀 Atualmente
+* **Linguagens:** JavaScript, TypeScript
+* **Frameworks:** React, Angular, Vue.js
+* **Gerenciamento de Estado:** Redux
+* **Testes:** Jest, Cypress
 
-Concentrada em aprimorar minhas habilidades em desenvolvimento web, ganhar mais conhecimento especialmente com Java. 
+#### ☁️ DevOps e Infraestrutura
 
-### 📚 Sempre Aprendendo
+* **CI/CD:** Jenkins, GitLab CI
+* **IaC:** Terraform
+* **Monitoramento:** Grafana, ELK Stack (Elasticsearch, Kibana), Dynatrace
+* **Nuvem:** AWS, Azure, GCP
+
+####  Bancos de Dados
+
+* **NoSQL:** MongoDB
+* **SQL:** PostgreSQL, MySQL
+
+####  Ferramentas
+
+* **APIs:** Postman, Insomnia, Swagger/OpenAPI
+* **IDEs:** IntelliJ IDEA, Visual Studio Code
+* **Gerenciamento de Dependências:** Maven, Gradle, npm, Yarn
+
+#### ✅ Qualidade de Software
+
+* **Testes:** JUnit, Mockito
+* **Análise Estática:** SonarQube, Checkmarx, Spinnaker
+
+### ️ Arquitetura Legada
+
+#### ⚙️ Desenvolvimento Backend
+
+* **Linguagem:** Java
+* **Frameworks:** Spring MVC, JSF (JavaServer Faces)
+* **Servidores:** Tomcat, WebLogic, JBoss, XAMPP
+* **Jobs:** UC4, Control-M
+
+####  Bancos de Dados
+
+* Oracle, Sybase, DB2, SQL Server
+
+####  Ferramentas
+
+* SQL Developer, Sqldbx, DBeaver
+
+###  Geral
+
+* **Metodologias Ágeis:** Scrum, Kanban
+* **Full-stack:** Node.js, Express.js
+
+##  Sempre Aprendendo
 
 Acredito que o aprendizado é contínuo. Explorando novas tecnologias, contando com o trabalho em equipe, e participando de comunidades para ficar sempre atualizada.
+
+##  Atualmente
+
+Aprimorando minhas habilidades em desenvolvimento web, com foco em Java e nas tecnologias do meu novo emprego: Angular, Grafana, Kibana, Elasticsearch, Dynatrace, Google Kubernetes Engine (GKE), MySQL, SQL Developer, Sybase, API REST, SOAP, Swagger, Postman, PostgreSQL, JavaScript, TypeScript, microsserviços, Docker, Kafka, RabbitMQ, Spring Cloud, Jobs UC4 e API Gateway.
+
+##  Outros Interesses
+
+* Python Django, OpenCV, CMake
+* Projetos de computação gráfica com Arduino e Raspberry Pi
 
 ![Swipe Up](https://media.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dearluana&layout=compact)
