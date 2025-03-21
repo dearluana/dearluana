@@ -1,5 +1,6 @@
 #  Olá mundo! 
 Sou uma profissional apaixonada por tecnologia, com conhecimento em projetos legados e arquiteturas de microsserviços integrados.
+Atuo na sustentação de aplicações Java, realizando troubleshooting, análise de causa raiz e conduzindo salas de crise para garantir a estabilidade e performance dos sistemas. Adicionalmente, busco aprimoramento contínuo através da pós-graduação em Desenvolvimento Full Stack na FIAP.
 
 ##  Experiência Abrangente 
 
