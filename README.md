@@ -41,12 +41,6 @@ Atuo na sustentação de aplicações Java, realizando troubleshooting, análise
 * Servidores de aplicação como Tomcat, JBOSS  e Weblogic ️.
 * Bancos de dados legados: Oracle , Sybase, DB2, Framework Hibernate.
 
-## ✨ Habilidades Adicionais ✨
-
-* Resolução de problemas e trabalho em equipe .
-* Modernizaçao/migraçao de sistemas legados.
-* Metodologias ágeis (Scrum , Kanban ).
-
 ##  Interesses 
 
 * Python Django , OpenCV ️, CMake ⚙️.
