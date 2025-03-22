@@ -29,7 +29,7 @@ Atuo na sustentação de aplicações Java, realizando troubleshooting, análise
 * **Nuvem:** AWS ☁️, Azure, GCP ☁️.
 * **Infraestrutura como Código (IaC):** Terraform ️⚙️.
 
-##  Principais experiências Arquitetura de Microsserviços 
+##  Principais experiências com Arquitetura de Microsserviços 
 
 * Spring Cloud ☁️, Kotlin, APIs REST/GraphQL.
 * Orquestração com Kubernetes ☸️ e Docker Swarm .
