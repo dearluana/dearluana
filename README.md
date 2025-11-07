@@ -1,6 +1,5 @@
 #  Olá mundo! 
-Sou uma profissional apaixonada por tecnologia, com conhecimento em projetos legados e arquiteturas de microsserviços integrados.
-Atuo na sustentação de aplicações Java, realizando troubleshooting, análise de causa raiz e conduzindo salas de crise para garantir a estabilidade e performance dos sistemas. Adicionalmente, busco aprimoramento contínuo através da pós-graduação em Desenvolvimento Full Stack na FIAP.
+Profissional apaixonada por tecnologia, com experiência em sustentação de sistemas Java e microsserviços, e pós-graduanda em Desenvolvimento Full Stack na FIAP.
 
 ## Habilidades Técnicas
 
@@ -13,8 +12,7 @@ Atuo na sustentação de aplicações Java, realizando troubleshooting, análise
 - **Versionamento de Código:** Git (GitLab, GitHub, SVN, ALM), Sourcetree.
 - **Gerenciamento de Dependências:** Maven, Gradle ️, npm, Yarn.
 - **APIs:** REST, GraphQL, API Gateway (Apigee, CAAPI Gateway ☁️, Azure API Management), Swagger/OpenAPI.
-- **Monitoramento e Observabilidade:** Grafana 📈, ELK Stack (Elasticsearch 🔍, Kibana), Dynatrace.
-- **IDEs:** IntelliJ IDEA, Visual Studio Code, Eclipse.
+- **Monitoramento e Observabilidade:** Grafana 📈, ELK Stack (Elasticsearch 🔍, Kibana), Dynatrace, Datadog.
 - **Ferramentas de Banco de Dados:** SQL Developer ️, Sqldbx ️, DBeaver.
 - **Framework de Banco de Dados:** Hibernate.
 - **Mensageria:** Kafka 🧑‍💻, RabbitMQ 🐇, ActiveMQ ⚡.
@@ -24,8 +22,7 @@ Atuo na sustentação de aplicações Java, realizando troubleshooting, análise
 
 ##  Interesses 
 
-* Python Django , OpenCV ️, CMake ⚙️.
-* Projetos com Arduino  e Raspberry Pi .
+* Arquitetura de microsserviços⚙️.
 
 ##  Aprendizado Contínuo 
 
