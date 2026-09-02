@@ -16,6 +16,7 @@ Profissional apaixonada por tecnologia, com experiência em sustentação de sis
 - **Ferramentas de Banco de Dados:** SQL Developer ️, Sqldbx ️, DBeaver.
 - **Framework de Banco de Dados:** Hibernate.
 - **Mensageria:** Kafka 🧑‍💻, RabbitMQ 🐇, ActiveMQ, IBM MQ⚡.
+- **Orquestrador & Workflow:** Camunda 7. 
 - **Jobs:** UC4 ⏱️, Control-M ⚙️.
 - **Nuvem:** AWS ☁️, Azure, GCP ☁️.
 - **Infraestrutura como Código (IaC):** Terraform ️⚙️.
